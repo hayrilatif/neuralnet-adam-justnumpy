@@ -1,2 +1,2 @@
-# neuralnet-adam-justnumpy
-In this notebook I will show you how to make a fully connected digit recognizer using just pure numpy. We use Adam algorithm for optimize network, mean squared error as a loss function.
+# Digit Recognizer Neural Network Using Just Numpy (Adam Optimizer) 
+In this notebook I implemented a fully connected digit recognizer using just pure numpy. I used Adam algorithm to optimize the network and used mean squared error as a loss function.
